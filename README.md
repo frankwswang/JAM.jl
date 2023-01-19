@@ -1,2 +1,1 @@
-# JAM.jl
-This is my JAM.
+# Jam.jl
